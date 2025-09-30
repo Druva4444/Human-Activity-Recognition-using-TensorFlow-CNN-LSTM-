@@ -107,6 +107,31 @@ plot_metric(convlstm_model_training_history, 'loss', 'val_loss', 'Model Loss')
 
 ---
 
+## 🏆 Results
+
+### Training & Validation Performance
+At **Epoch 21/50**:
+- **Training Accuracy:** `98.91%`
+- **Training Loss:** `0.0251`
+- **Validation Accuracy:** `81.40%`
+- **Validation Loss:** `0.3634`
+
+### Test Set Performance
+- **Test Accuracy:** `86.63%`
+- **Test Loss:** `0.3277`
+
+---
+
+### 📊 Graphs
+- Training vs Validation Accuracy  
+  ![Accuracy Graph](docs/training_accuracy.png)
+
+- Training vs Validation Loss  
+  ![Loss Graph](docs/training_loss.png)
+
+*(Place your saved plots inside a `docs/` folder in the repo for these images to display.)*
+
+---
 ## 📌 Requirements
 - Python 3.7+
 - TensorFlow 2.x
