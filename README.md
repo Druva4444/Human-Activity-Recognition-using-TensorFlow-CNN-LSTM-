@@ -129,7 +129,7 @@ At **Epoch 21/50**:
 - Training vs Validation Loss  
   ![Loss Graph](loss.png)
 
-*(Place your saved plots inside a `docs/` folder in the repo for these images to display.)*
+
 
 ---
 ## 📌 Requirements
