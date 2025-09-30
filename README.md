@@ -124,10 +124,10 @@ At **Epoch 21/50**:
 
 ### 📊 Graphs
 - Training vs Validation Accuracy  
-  ![Accuracy Graph](docs/training_accuracy.png)
+  ![Accuracy Graph](accuracy.png)
 
 - Training vs Validation Loss  
-  ![Loss Graph](docs/training_loss.png)
+  ![Loss Graph](loss.png)
 
 *(Place your saved plots inside a `docs/` folder in the repo for these images to display.)*
 
