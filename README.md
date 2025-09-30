@@ -29,8 +29,8 @@ The model leverages spatiotemporal features extracted from video frames to class
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/human-activity-recognition-convlstm.git
-cd human-activity-recognition-convlstm
+git clone https://github.com/Druva4444/Human-Activity-Recognition-using-TensorFlow-CNN-LSTM-.git
+cd Human-Activity-Recognition-using-TensorFlow-CNN-LSTM-
 ```
 
 ### 2. Install dependencies
@@ -123,10 +123,6 @@ pip install tensorflow opencv-python numpy matplotlib moviepy scikit-learn
 
 ---
 
-## 🔮 Future Work
-- Extend to all **50 UCF50 classes**.
-- Experiment with **3D CNN + LSTM** hybrids.
-- Deploy trained models as a **real-time activity recognition system**.
 
 ---
 
